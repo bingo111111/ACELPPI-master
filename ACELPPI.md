@@ -1,5 +1,3 @@
-ACELPPI
-
 MATLAB 2019b
 
 Python 3.8
